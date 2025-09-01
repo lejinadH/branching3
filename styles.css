@@ -1,0 +1,38 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #333;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+  }
+  
+  footer {
+    background-color: #333;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  /* Branch 1 Styles */
+  .branch-1 {
+    background-color: #ffdddd;
+    color: #cc0000;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+  }
+  
+  .branch-1 h2 {
+    color: #cc0000;
+  }
+  
